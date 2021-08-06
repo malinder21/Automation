@@ -1,5 +1,6 @@
 C:\Users\malinder.singh\Automation\src\test\java\cucumberOptions\TestRunner.java
 C:\Users\malinder.singh\Automation\src\test\java\stepDefinitions\stepDefinition.java
 C:\Users\malinder.singh\Automation\src\test\java\stepDefinitions\mystepDefinition.java
-C:\Users\malinder.singh\Automation\src\test\java\Cucumber\AutomationFramework\AppTest.java
+C:\Users\malinder.singh\Automation\src\test\java\pageObjects\HomePage.java
+C:\Users\malinder.singh\Automation\src\test\java\Cucumber\AutomationFramework\Base.java
 C:\Users\malinder.singh\Automation\src\test\java\stepDefinitions\Hooks.java
